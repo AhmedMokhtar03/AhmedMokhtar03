@@ -8,20 +8,20 @@
 
 ## About Me
 
-**Biomedical Engineer** focused on **Digital Signal Processing, Machine Learning, and Artificial Intelligence**.
-Currently developing a capstone RAG system for hospital information management.
+**Biomedical Engineer** specializing in the intersection of healthcare and advanced computation. My core focus spans **Artificial Intelligence, Data Science, and Signal Processing**, with practical experience developing machine learning models for both audio and medical data. I am currently building a Retrieval-Augmented Generation (RAG) capstone system tailored for hospital information management, alongside continuous learning in generative and agentic AI.
 
 ## Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,js,html,css,react,git,docker&perline=11" />
+<img src="https://skillicons.dev/icons?i=py,java,mysql,pytorch,scikitlearn,opencv,git,github,vscode&perline=11" />
 
 </div>
 
-* **Languages:** Python
-* **Libraries & Frameworks:** TensorFlow, Keras, PyTorch, SpeechBrain
-* **Concepts:** Generative AI, Agentic AI, Medical & Audio Signal Processing
+* **Languages:** Python, Java, SQL
+* **AI / Data Libraries:** PyTorch, Scikit-Learn, Pandas, NumPy, Streamlit, Matplotlib, OpenCV
+* **Concepts:** Machine Learning, Deep Learning, Multi-Agent Systems, Medical Signal Processing, OOP
+* **Tools:** Git, GitHub, VS Code, Jupyter Notebooks
 
 ## Contact
 
